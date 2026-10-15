@@ -3,10 +3,13 @@
 An end-to-end Machine Learning web platform designed to analyze student academic performance, technical projects, internships, certifications, and aptitude scores to predict campus placement readiness and provide actionable, personalized recommendations.
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-TechOm0018-blue?logo=github)](https://github.com/TechOm0018/AI-Based-Placement-Prediction-System)
+[![Live Demo](https://img.shields.io/badge/Website-Live%20on%20GitHub%20Pages-success?style=flat&logo=githubpages)](https://techom0018.github.io/AI-Based-Placement-Prediction-System/)
 [![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?logo=react)](https://react.dev/)
 [![Flask](https://img.shields.io/badge/Backend-Python%20Flask-000000?logo=flask)](https://flask.palletsprojects.com/)
 [![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> 🚀 **Live Website**: [https://techom0018.github.io/AI-Based-Placement-Prediction-System/](https://techom0018.github.io/AI-Based-Placement-Prediction-System/)
 
 ---
 
