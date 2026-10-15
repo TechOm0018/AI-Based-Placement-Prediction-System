@@ -1,0 +1,32 @@
+PLACIFY AI — QUICK START
+
+1) Open this folder in VS Code.
+
+BACKEND (Windows)
+cd backend
+venv\Scripts\activate
+python app.py
+
+If venv was not created, run:
+python -m venv venv
+pip install -r requirements.txt
+python train_model.py
+python app.py
+
+BACKEND URL: http://127.0.0.1:5000
+
+FRONTEND
+Open a second terminal:
+cd frontend
+npm install
+npm run dev
+
+Open the localhost URL shown by Vite (normally http://localhost:5173).
+
+PAGES
+/           Home
+/predict    Student prediction
+/dashboard  Analytics dashboard
+/about      Project + technology
+
+NOTE: The included placement_data.csv is synthetic and for academic demonstration. Replace it with a properly collected, representative dataset for any serious evaluation.
